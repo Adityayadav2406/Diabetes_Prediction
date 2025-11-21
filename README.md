@@ -1,6 +1,7 @@
 # Diabetes_Prediction
 🩺 Pima Indian Diabetes Prediction Model
 # COLAB LINK : https://colab.research.google.com/drive/1Ruif6ZlUCPw0hrH8c4HhNEKYXA6YXUwr?usp=sharing
+#Dataset File: •	https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 # Task
 Build, evaluate, and visualize a machine learning model to predict diabetes using the `diabetes.csv` dataset.
 ## Load Data
