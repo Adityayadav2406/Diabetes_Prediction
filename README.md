@@ -73,3 +73,5 @@ Summarize the model's performance, key findings from the prediction, and potenti
 
 *   The current model performs reasonably well overall but has a noticeable disparity in performance between predicting non-diabetic and diabetic cases, with a lower recall for the diabetic class (0.62). This suggests the model is more prone to missing actual diabetes cases, which is a critical concern in a medical diagnostic context.
 *   To improve the model's ability to identify diabetic patients, future steps could involve exploring advanced machine learning models (e.g., Gradient Boosting, Support Vector Machines), employing techniques to address potential class imbalance if present, or conducting feature engineering to derive more predictive variables.
+# visualization image 
+<img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/ba0725c9-3b58-48ca-b296-e481f9768b4a" />
